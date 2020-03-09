@@ -17,10 +17,11 @@ iii. train3.csv
 iv. building_to_mrt_distance.csv (distance in meters) - Can be used for both train and test
 
 ## Main Task:
-you are expected to create an analytical and modelling framework to predict the
-flat resale prices based on the quantitative and qualitative features provided in the dataset while
-answering other questions too cited below. You may derive new features from the existing features
-and from the domain knowledge, which may help in improving the model efficiency
+● create an analytical and modelling framework to predict the flat resale prices using only train data.
+● create an analytical and modelling framework to predict the flat resale prices using train data and buliding data.
+(building data is used to do clustering and adding the cluster to main dataset and bulding model)
 
-##Evaluation Metric:
+## Evaluation Metric:
 ● ‘ RMSE’ as the error metric for regression task to tune the model.
+
+
