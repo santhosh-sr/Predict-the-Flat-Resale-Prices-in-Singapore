@@ -18,8 +18,9 @@ iv. building_to_mrt_distance.csv (distance in meters) - Can be used for both tra
 
 ## Main Task:
 ● create an analytical and modelling framework to predict the flat resale prices using only train data.
-● create an analytical and modelling framework to predict the flat resale prices using train data and buliding data.
-(building data is used to do clustering and adding the cluster to main dataset and bulding model)
+
+● create an analytical and modelling framework to predict the flat resale prices using train data and building data.
+(building data is used to do clustering and adding these clusters to main dataset and building  the model)
 
 ## Evaluation Metric:
 ● ‘ RMSE’ as the error metric for regression task to tune the model.
